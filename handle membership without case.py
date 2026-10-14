@@ -1,0 +1,1 @@
+vmembership = membership.strip().lower()
